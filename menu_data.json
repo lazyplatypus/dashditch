@@ -1,0 +1,69 @@
+{
+    "Appetizers": [
+      {
+        "name": "Spring Rolls",
+        "price": 5,
+        "modifications": [
+          {"name": "Extra Spicy", "price": 1},
+          {"name": "Gluten-Free", "price": 2},
+          {"name": "None", "price": 0}
+        ],
+        "image": "https://via.placeholder.com/100"
+      },
+      {
+        "name": "Garlic Bread",
+        "price": 4,
+        "modifications": [
+          {"name": "Extra Garlic", "price": 0.5},
+          {"name": "No Cheese", "price": 0},
+          {"name": "None", "price": 0}
+        ],
+        "image": "https://via.placeholder.com/100"
+      }
+    ],
+    "Main Course": [
+      {
+        "name": "Grilled Salmon",
+        "price": 15,
+        "modifications": [
+          {"name": "Well Done", "price": 0},
+          {"name": "Medium Rare", "price": 0},
+          {"name": "None", "price": 0}
+        ],
+        "image": "https://via.placeholder.com/100"
+      },
+      {
+        "name": "Vegetarian Pizza",
+        "price": 12,
+        "modifications": [
+          {"name": "Extra Cheese", "price": 2},
+          {"name": "Vegan Cheese", "price": 2.5},
+          {"name": "None", "price": 0}
+        ],
+        "image": "https://via.placeholder.com/100"
+      }
+    ],
+    "Desserts": [
+      {
+        "name": "Cheesecake",
+        "price": 6,
+        "modifications": [
+          {"name": "Strawberry Topping", "price": 1.5},
+          {"name": "Chocolate Topping", "price": 1.5},
+          {"name": "None", "price": 0}
+        ],
+        "image": "https://via.placeholder.com/100"
+      },
+      {
+        "name": "Ice Cream Sundae",
+        "price": 5,
+        "modifications": [
+          {"name": "Extra Nuts", "price": 0.75},
+          {"name": "No Nuts", "price": 0},
+          {"name": "None", "price": 0}
+        ],
+        "image": "https://via.placeholder.com/100"
+      }
+    ]
+  }
+  
